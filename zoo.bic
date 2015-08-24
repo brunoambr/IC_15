@@ -1,0 +1,22 @@
+# IC_15
+# Biclusters for zoo database
+{"objs": ["hamster.1", "cavy.1", "calf.1", "goat.1", "pussycat.1", "reindeer.1", "pony.1", "honeybee.6"], "feats": ["backbone", "domestic", "toothed", "breathes", "hair", "milk", "4legs"]}
+{"objs": ["wallaby.1", "girl.1", "gorilla.1", "sealion.1"], "feats": ["2legs", "backbone", "breathes", "hair", "toothed", "catsize", "milk"]}
+{"objs": ["herring.4", "piranha.4", "stingray.4", "dogfish.4", "tuna.4", "pike.4", "seahorse.4", "catfish.4", "chub.4", "haddock.4", "sole.4", "carp.4", "bass.4"], "feats": ["aquatic", "fins", "backbone", "tail", "eggs", "toothed"]}
+{"objs": ["elephant.1", "cheetah.1", "mink.1", "polecat.1", "cavy.1", "deer.1", "mole.1", "oryx.1", "aardvark.1", "buffalo.1", "puma.1", "antelope.1", "opossum.1", "calf.1", "goat.1", "pussycat.1", "hare.1", "pony.1", "raccoon.1", "wolf.1", "giraffe.1", "hamster.1", "vole.1", "lynx.1", "leopard.1", "boar.1", "mongoose.1", "reindeer.1", "bear.1", "lion.1"], "feats": ["backbone", "breathes", "hair", "toothed", "milk", "4legs"]}
+{"objs": ["vampire.1", "squirrel.1", "fruitbat.1", "wallaby.1", "sealion.1"], "feats": ["2legs", "backbone", "breathes", "hair", "toothed", "tail", "milk"]}
+{"objs": ["dolphin.1", "porpoise.1", "stingray.4", "dogfish.4", "tuna.4", "pike.4", "seal.1", "sealion.1", "octopus.7"], "feats": ["aquatic", "fins", "backbone", "predator", "catsize", "toothed"]}
+{"objs": ["elephant.1", "cheetah.1", "mink.1", "polecat.1", "deer.1", "sealion.1", "oryx.1", "buffalo.1", "puma.1", "antelope.1", "calf.1", "goat.1", "pussycat.1", "reindeer.1", "pony.1", "raccoon.1", "wallaby.1", "wolf.1", "giraffe.1", "lynx.1", "leopard.1", "boar.1", "mongoose.1", "platypus.1", "lion.1"], "feats": ["backbone", "breathes", "hair", "tail", "catsize", "milk"]}
+{"objs": ["penguin.2", "skua.2", "sealion.1", "gull.2", "skimmer.2", "scorpion.7"], "feats": ["aquatic", "2legs", "backbone", "predator", "breathes", "tail"]}
+{"objs": ["squirrel.1", "wallaby.1", "vampire.1", "girl.1", "fruitbat.1", "gorilla.1", "sealion.1"], "feats": ["2legs", "backbone", "breathes", "hair", "toothed", "milk"]}
+{"objs": ["herring.4", "piranha.4", "stingray.4", "dogfish.4", "tuna.4", "pike.4", "newt.5", "catfish.4", "chub.4", "bass.4", "clam.7", "lobster.7", "seawasp.7", "starfish.7", "crayfish.7", "seasnake.3"], "feats": ["aquatic", "backbone", "predator", "tail", "eggs", "toothed"]}
+{"objs": ["goat.1", "pussycat.1", "reindeer.1", "pony.1", "calf.1"], "feats": ["backbone", "domestic", "toothed", "breathes", "hair", "tail", "catsize", "milk", "4legs"]}
+{"objs": ["penguin.2", "flamingo.2", "vulture.2", "ostrich.2", "rhea.2", "swan.2", "tortoise.3"], "feats": ["2legs", "eggs", "backbone", "feathers", "breathes", "tail", "catsize"]}
+{"objs": ["newt.5", "frog.5", "frog2.5", "platypus.1", "slug.7", "worm.7", "termite.6", "toad.5", "crab.7", "ladybird.6", "flea.6"], "feats": ["aquatic", "eggs", "backbone", "predator", "breathes", "4legs"]}
+{"objs": ["mink.1", "dolphin.1", "porpoise.1", "sealion.1", "seal.1", "platypus.1"], "feats": ["aquatic", "backbone", "predator", "breathes", "catsize", "milk"]}
+{"objs": ["dolphin.1", "porpoise.1", "stingray.4", "dogfish.4", "tuna.4", "pike.4", "sealion.1"], "feats": ["aquatic", "fins", "backbone", "predator", "tail", "catsize", "toothed"]}
+{"objs": ["pitviper.3", "newt.5", "tuatara.3", "slowworm.3"], "feats": ["eggs", "backbone", "toothed", "breathes", "predator", "tail"]}
+{"objs": ["swan.2", "lark.2", "gull.2", "dove.2", "duck.2", "penguin.2", "hawk.2", "crow.2", "chicken.2", "sparrow.2", "kiwi.2", "parakeet.2", "skua.2", "flamingo.2", "vulture.2", "pheasant.2", "wren.2", "ostrich.2", "rhea.2", "skimmer.2"], "feats": ["2legs", "eggs", "backbone", "feathers", "breathes", "tail"]}
+{"objs": ["duck.2", "swan.2", "skua.2", "gull.2", "skimmer.2"], "feats": ["aquatic", "2legs", "eggs", "backbone", "feathers", "airborne", "tail", "breathes"]}
+{"objs": ["porpoise.1", "seal.1", "sealion.1", "dolphin.1"], "feats": ["aquatic", "fins", "backbone", "predator", "breathes", "toothed", "catsize", "milk"]}
+{"objs": ["lark.2", "vulture.2", "dove.2", "duck.2", "hawk.2", "crow.2", "chicken.2", "sparrow.2", "parakeet.2", "skua.2", "flamingo.2", "gull.2", "pheasant.2", "wren.2", "swan.2", "skimmer.2", "wasp.6", "housefly.6", "moth.6", "gnat.6"], "feats": ["2legs", "eggs", "backbone", "feathers", "breathes", "tail", "airborne"]}
